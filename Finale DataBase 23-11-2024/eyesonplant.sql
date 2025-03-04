@@ -87,5 +87,3 @@ SELECT * FROM Reminders;
 
 -- عرض بيانات جدول المنتجات
 SELECT * FROM Products;
-show tables;
-CREATE INDEX idx_user_id ON Plants(user_id);
